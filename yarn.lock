@@ -1429,7 +1429,7 @@
     "@strapi/utils" "4.13.6"
     sendmail "^1.6.1"
 
-"@strapi/provider-upload-cloudinary@4.13.6":
+"@strapi/provider-upload-cloudinary@^4.13.6":
   version "4.13.6"
   resolved "https://registry.npmjs.org/@strapi/provider-upload-cloudinary/-/provider-upload-cloudinary-4.13.6.tgz"
   integrity sha512-Yw+Y4w8qWTzfO4D6SAkA5eyhU57QqNeqc2F8Eybhnput09Tl6Mc6c+z18HTrmgOQwDjJVPThK3ba7U9HdSoxPQ==
